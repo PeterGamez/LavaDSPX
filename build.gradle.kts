@@ -3,7 +3,7 @@ import org.ajoberstar.grgit.Grgit
 plugins {
     java
     `maven-publish`
-    id("org.ajoberstar.grgit") version "5.2.2"
+    id("org.ajoberstar.grgit") version "5.2.0"
     alias(libs.plugins.lavalink)
 }
 
